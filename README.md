@@ -3,7 +3,7 @@
 Clone repo:
 
 ```
-https://github.com/feegloo/node-exercise.git
+git clone https://github.com/feegloo/node-exercise.git
 ```
 
 then install node_modules:
