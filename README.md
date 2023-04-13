@@ -1,5 +1,19 @@
 # node-exercise
 
+Clone repo:
+
+```
+https://github.com/feegloo/node-exercise.git
+```
+
+then install node_modules:
+
+```
+npm i
+```
+
+## scripts
+
 **run app.js (build + start)**
 
 ```
